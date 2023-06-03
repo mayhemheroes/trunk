@@ -1,5 +1,5 @@
 project: trunk
-target: parse_keymap_arg
+target: parse_public_url
 
 cmds:
-  - cmd: /parse_keymap_arg
+  - cmd: /parse_public_url
