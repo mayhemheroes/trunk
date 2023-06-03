@@ -1,0 +1,5 @@
+project: trunk
+target: parse_keymap_arg
+
+cmds:
+  - cmd: /parse_keymap_arg
