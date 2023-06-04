@@ -1,0 +1,5 @@
+project: trunk
+target: parse_public_url
+
+cmds:
+  - cmd: /parse_public_url
